@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <ul class="ul">
+                <li><i class="bg icon_cskh"></i> <span>CSKH: </span><b>0904 332 781</b></li>
+                <li id="support_top">
+                    <i class="bg icon_yahoo"></i><span>Hỗ trợ trực tuyến</span>&nbsp;<i class="bg icon_drop"></i>
+                    <div id="h_menu_sub_on1" class="h_menu_sub hOnline">
+                        <div class="hOnline-order">
+                            <div class="support_title">210 Thái Hà:(04)3537.9888</div>
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd6">Hoàng Huy</a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd6"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd6&amp;m=g&amp;t=0&amp;l=us"></a>  097.191.3355</div></div>
+
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd12">Xuân Dũng</a></div><div class="yahooicon"><a href="ymsgr:SendIM?akcdungdx"><img border="0" src="http://opi.yahoo.com/online?u=akcdungdx&amp;m=g&amp;t=0&amp;l=us"></a>  0913.866872</div></div>
+
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd15">Văn Thành</a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd12"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd12&amp;m=g&amp;t=0&amp;l=us"></a>   0962.318.493</div></div>
+                            <!--    <div class="item"><div class="label"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd14">Vũ Tùng</a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd14"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd14&m=g&t=0&l=us"/></a></div></div>  -->
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd1">Hỗ Trợ Dự Án</a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd1"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd1&amp;m=g&amp;t=0&amp;l=us"></a>  0981.999.688</div></div>
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd1">Hỗ Trợ Kĩ Thuật</a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd1"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd1&amp;m=g&amp;t=0&amp;l=us"></a>  04 3537 9888<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (line 104 - 105) </div></div>
+                            <div class="item"><div class="labels"><a rel="nofollow" href="ymsgr:SendIM?ankhang_kd1"> Bảo Hành </a></div><div class="yahooicon"><a href="ymsgr:SendIM?ankhang_kd1"><img border="0" src="http://opi.yahoo.com/online?u=ankhang_kd1&amp;m=g&amp;t=0&amp;l=us"></a>   093 669 7181</div></div>
+                        </div><!--hOnline-order-->
+                    </div><!--h_menu_sub-->
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
