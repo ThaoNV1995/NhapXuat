@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -182,13 +183,98 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Index.css" />
+    <Content Include="Content\css\bootstrap.css" />
+    <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\img\10981203_515304785294395_84405105656986013_n.png" />
+    <Content Include="Content\img\11059535_515304628627744_5207012924921368416_n.png" />
+    <Content Include="Content\img\120_51_tuyen_dung_nhan_su_2015_322015112037am.gif" />
+    <Content Include="Content\img\120_73_laptop_lenovo_s410.jpg" />
+    <Content Include="Content\img\120_86_ss.PNG" />
+    <Content Include="Content\img\120_87_2203_khuyen_mai_asus_2203.jpg" />
+    <Content Include="Content\img\120_88_unnamed.jpg" />
+    <Content Include="Content\img\250_5335_34_232_251_17.jpg" />
+    <Content Include="Content\img\250_5907_3458.jpg" />
+    <Content Include="Content\img\250_5957_asus_zenbook_ux303lb_c4092h_smoky_brown_1.jpg" />
+    <Content Include="Content\img\250_6082_dell_vostro_3558_vti33011_black.jpg" />
+    <Content Include="Content\img\250_6095_asus_k501lx_dm051d_dark_blue_metal_01.jpg" />
+    <Content Include="Content\img\250_6151_dell_inspiron_3458_txtgh2_black.jpg" />
+    <Content Include="Content\img\250_6152_dell_inspiron_3458_txtgh2_black.jpg" />
+    <Content Include="Content\img\250_6154_dell_inspiron_3458_txtgh2_black.jpg" />
+    <Content Include="Content\img\250_6167_dell_inspiron_13_7348_c3i7114w_silver.jpg" />
+    <Content Include="Content\img\250_6191_dell_inspiron_7447__n7447b__silver2_407x407.png" />
+    <Content Include="Content\img\250_6230_dell_inspiron_3558_p9dyt1_black.jpg" />
+    <Content Include="Content\img\250_6242_asus_zenbook_ux303lb_c4004h_smoky_brown_02.jpg" />
+    <Content Include="Content\img\250_6427_dell_inspiron_7348_flip_c3i5610w_silver.jpg" />
+    <Content Include="Content\img\250_6514_asus_zenbook_ux303ua_r4039t_21.jpg" />
+    <Content Include="Content\img\250_6601_m_y_t_nh_b_n_asus_cg8270_vn004d_1.jpg" />
+    <Content Include="Content\img\250_6688_dell_inspiron_14_n3443_c4i71820.jpg" />
+    <Content Include="Content\img\250_6694_dell_7359.jpg" />
+    <Content Include="Content\img\250_6696_dell_inspiron_13_7348_c3i7115w_03.jpg" />
+    <Content Include="Content\img\250_6725_index.jpg" />
+    <Content Include="Content\img\250_7049_22730_dell_inspiron_3452_03.jpg" />
+    <Content Include="Content\img\250_7192_laptop_inspiron_14_5450_polaris_mag_pdp_module_1.jpg" />
+    <Content Include="Content\img\banner_38b3eff8.png" />
+    <Content Include="Content\img\banner_65b9eea6.png" />
+    <Content Include="Content\img\banner_72b32a1f.png" />
+    <Content Include="Content\img\banner_9a115815.gif" />
+    <Content Include="Content\img\banner_ac627ab1.png" />
+    <Content Include="Content\img\banner_c9e1074f.png" />
+    <Content Include="Content\img\banner_d2ddea18.png" />
+    <Content Include="Content\img\banner_ed3d2c21.png" />
+    <Content Include="Content\img\banner_f0935e4c.png" />
+    <Content Include="Content\img\blank.gif" />
+    <Content Include="Content\img\brand_127.jpg" />
+    <Content Include="Content\img\brand_134.jpg" />
+    <Content Include="Content\img\brand_135.jpg" />
+    <Content Include="Content\img\brand_137.jpg" />
+    <Content Include="Content\img\brand_141.jpg" />
+    <Content Include="Content\img\brand_2.jpg" />
+    <Content Include="Content\img\brand_305.jpg" />
+    <Content Include="Content\img\brand_311.jpg" />
+    <Content Include="Content\img\brand_319.jpg" />
+    <Content Include="Content\img\brand_320.jpg" />
+    <Content Include="Content\img\brand_324.jpg" />
+    <Content Include="Content\img\brand_325.jpg" />
+    <Content Include="Content\img\brand_33.jpg" />
+    <Content Include="Content\img\brand_331.jpg" />
+    <Content Include="Content\img\brand_342.jpg" />
+    <Content Include="Content\img\brand_347.jpg" />
+    <Content Include="Content\img\brand_348.jpg" />
+    <Content Include="Content\img\brand_349.jpg" />
+    <Content Include="Content\img\brand_370.jpg" />
+    <Content Include="Content\img\brand_371.jpg" />
+    <Content Include="Content\img\brand_372.jpg" />
+    <Content Include="Content\img\brand_43.jpg" />
+    <Content Include="Content\img\brand_59.jpg" />
+    <Content Include="Content\img\brand_8.jpg" />
+    <Content Include="Content\img\cat_1bd42b172e604281749bd1165b8bfe9e.png" />
+    <Content Include="Content\img\cat_1c2260be877cbd5693e493951e8eb430.png" />
+    <Content Include="Content\img\cat_5a27f436856d4756a0efe2fd848d79d4.png" />
+    <Content Include="Content\img\cat_a8aafc2b7d451a37409bddc7ee8a18e9.png" />
+    <Content Include="Content\img\cat_caf4bb975a1395a5d716cc21ce8726a4.png" />
+    <Content Include="Content\img\cat_d3306ab36c10519e174cd70561740e69.png" />
+    <Content Include="Content\img\cat_d6409ce788694525a3926ddc77ebaa2b.png" />
+    <Content Include="Content\img\cat_e5eba3424ad2159a0b2d11954edc4d5f.png" />
+    <Content Include="Content\img\cat_ecf38479fe968c923e51ec4c77726614.png" />
+    <Content Include="Content\img\cat_f6c8dd5cf8f95e19e99ef874e3edc242.png" />
+    <Content Include="Content\img\dangkybocongthuong.jpg" />
+    <Content Include="Content\img\icon_next.png" />
+    <Content Include="Content\img\icon_prev.png" />
+    <Content Include="Content\img\lenovo.jpg" />
+    <Content Include="Content\img\logo_logo.png" />
+    <Content Include="Content\img\popup_pop up22.png" />
+    <Content Include="Content\img\soundmax.png" />
+    <Content Include="Content\img\toshiba.gif" />
+    <Content Include="Content\js\carousel.js" />
+    <Content Include="Content\js\common%281%29.js" />
+    <Content Include="Content\js\common.js" />
+    <Content Include="Content\css\style_new.css" />
+    <Content Include="Content\js\lazyload.js" />
+    <Content Include="Content\js\mootools.js" />
+    <Content Include="Content\js\swfobject.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Content\Site.css" />
     <Content Include="Images\sprite.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -286,12 +372,9 @@
     </Content>
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
-    <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

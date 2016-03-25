@@ -32,3 +32,35 @@ E:\Học tập\MVC\NhapXuat\NhapXuat\bin\Antlr3.Runtime.pdb
 E:\Học tập\MVC\NhapXuat\NhapXuat\obj\Debug\NhapXuat.dll
 E:\Học tập\MVC\NhapXuat\NhapXuat\obj\Debug\NhapXuat.pdb
 E:\Học tập\MVC\NhapXuat\NhapXuat\obj\Debug\NhapXuat.csprojResolveAssemblyReference.cache
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\NhapXuat.dll.config
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\NhapXuat.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\NhapXuat.pdb
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\Antlr3.Runtime.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\EntityFramework.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\EntityFramework.SqlServer.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\Microsoft.Web.Infrastructure.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\Newtonsoft.Json.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Helpers.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Mvc.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Optimization.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Razor.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.Deployment.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.Razor.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\WebGrease.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\EntityFramework.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\EntityFramework.SqlServer.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\PagedList.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\PagedList.Mvc.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Helpers.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Mvc.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Optimization.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.Razor.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.Deployment.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\System.Web.WebPages.Razor.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\Newtonsoft.Json.xml
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\bin\Antlr3.Runtime.pdb
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\obj\Debug\NhapXuat.csprojResolveAssemblyReference.cache
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\obj\Debug\NhapXuat.dll
+E:\_Study\_SourceCode\_SourseGithub\NhapXuat\NhapXuat\NhapXuat\obj\Debug\NhapXuat.pdb
