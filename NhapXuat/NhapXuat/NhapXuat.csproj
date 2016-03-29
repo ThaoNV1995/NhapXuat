@@ -264,6 +264,7 @@
     <Content Include="Content\img\logo_logo.png" />
     <Content Include="Content\img\popup_pop up22.png" />
     <Content Include="Content\img\soundmax.png" />
+    <Content Include="Content\img\sprite.png" />
     <Content Include="Content\img\toshiba.gif" />
     <Content Include="Content\js\carousel.js" />
     <Content Include="Content\js\common%281%29.js" />
@@ -375,6 +376,12 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_Header.cshtml" />
+    <Content Include="Views\Shared\_Menu.cshtml" />
+    <Content Include="Views\Shared\_Slider.cshtml" />
+    <Content Include="Views\Shared\_BannerYoutube.cshtml" />
+    <Content Include="Views\Shared\_ListBrand.cshtml" />
+    <Content Include="Views\Shared\_Footer.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
